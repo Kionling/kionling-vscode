@@ -1,0 +1,21 @@
+{
+  "name": "kionling",
+  "displayName": "Kionling",
+  "description": "Dark, sleek, and minimal theme.",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.96.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Kionling",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Kionling-color-theme.json"
+      }
+    ]
+  }
+}
